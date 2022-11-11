@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="ShoesStore_WPF.Views.BuyShoesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ShoesStore_WPF.Views"
+             xmlns:Converter="clr-namespace:ShoesStore_WPF.Converter"
+             mc:Ignorable="d" 
+              d:DesignHeight="1500"
+    d:DesignWidth="600"
+            Background="#90dfaa"
+    >
+    <UserControl.Resources>
+        <Converter:ImagePathConverter x:Key="mynew:ImagePathConverter"/>
+        <Style TargetType="{x:Type CheckBox}" x:Key="myCheckboxStyle">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type CheckBox}">
+                        <StackPanel Orientation="Horizontal">
+                            <Image x:Name="checkboxImage" Source="C:\Users\Oks\Downloads\GIT\ShoesStore_WPF\ShoesStore_WPF\Images\Status\Wait.png" Width="50"/>
+                            <ContentPresenter/>
+                        </StackPanel>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="checkboxImage" Property="Source" Value="{Binding  StringFormat=true, Converter={StaticResource mynew:ImagePathConverter}}"/>
+                            </Trigger>
+                            <Trigger Property="IsChecked" Value="False">
+                                <Setter TargetName="checkboxImage" Property="Source" Value="{Binding StringFormat=false, Converter={StaticResource mynew:ImagePathConverter}}"/>
+                                </Trigger>
+                            
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+
+    </UserControl.Resources>
+    <Grid Grid.IsSharedSizeScope="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+       
+        <TextBlock
+            Grid.Row="0"
+            Style="{StaticResource Header}"
+            Text="Shopping" />
+
+        <Grid Grid.Row="1" >
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+
+            <TextBlock Grid.Row="0" Text="Username" Style="{StaticResource SubHeader}" />
+            <TextBox
+                Grid.Row="1"
+              
+                Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" >
+
+                <TextBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Copy The BEST" Command="Copy"></MenuItem>
+                        <MenuItem Header="CUT The WORST" Command="Cut"></MenuItem>
+
+                    </ContextMenu>
+
+                </TextBox.ContextMenu>
+            </TextBox>
+        </Grid>
+
+
+
+
+
+
+        <Grid Grid.Row="2" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" SharedSizeGroup="FirstColumn" />
+                <ColumnDefinition Width="auto" SharedSizeGroup="SecondColumn" />
+            </Grid.ColumnDefinitions>
+
+        </Grid>
+
+
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center"
+            Grid.Row="5">
+           
+            <Button Grid.Column="0" Command="{Binding SubmitCommand}" Content="BUY!" />
+            <Button Grid.Column="2" Margin="0,0,0,0"
+                Command="{Binding CancelCommand}"
+                Content="Cancel" Click="Button_Click" />
+        </StackPanel>
+
+
+        <Grid Grid.Row="3" >
+
+            <DataGrid ItemsSource="{Binding MyCollection}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False">
+
+                <DataGrid.Columns >
+                    <DataGridTemplateColumn  Header="Image" Width="320" IsReadOnly="True">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Image}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn  Width="70" Header="Price" Binding="{Binding Price}"/>
+
+                    <DataGridTextColumn  Width="165"  Header="Description" Binding="{Binding Description}"/>
+
+
+                    <DataGridTemplateColumn  Header="Buy">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+
+                                <CheckBox IsChecked="{Binding IsSelected, UpdateSourceTrigger=PropertyChanged}" 
+                                          Style="{StaticResource myCheckboxStyle}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</UserControl>
