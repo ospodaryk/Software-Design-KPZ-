@@ -1,0 +1,238 @@
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.AssemblyReference.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfoInputs.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CoreCompileInputs.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\appsettings.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.exe
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.deps.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.runtimeconfig.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\scopedcss\bundle\CD_first_withDI.styles.css
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CopyComplete
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\refint\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.genruntimeconfig.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\ref\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.AssemblyReference.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfoInputs.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CoreCompileInputs.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\refint\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\appsettings.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.exe
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.deps.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.runtimeconfig.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\scopedcss\bundle\CD_first_withDI.styles.css
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CopyComplete
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.genruntimeconfig.cache
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\obj\Debug\net6.0\ref\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Oks\Downloads\GIT\CD_first_withDI - Copy\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\appsettings.json
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.exe
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.deps.json
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.runtimeconfig.json
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.AssemblyReference.cache
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfoInputs.cache
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CoreCompileInputs.cache
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\scopedcss\bundle\CD_first_withDI.styles.css
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CopyComplete
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\refint\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.genruntimeconfig.cache
+C:\Users\Oks\Downloads\GIT\WorkingKPZ\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\ref\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\appsettings.json
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.exe
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.deps.json
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.runtimeconfig.json
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.AssemblyReference.cache
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfoInputs.cache
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.AssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CoreCompileInputs.cache
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\scopedcss\bundle\CD_first_withDI.styles.css
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.csproj.CopyComplete
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\refint\CD_first_withDI.dll
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.pdb
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\CD_first_withDI.genruntimeconfig.cache
+C:\Users\Oks\Downloads\GIT\Lab_5\CD_first_withDI\CD_first_withDI\obj\Debug\net6.0\ref\CD_first_withDI.dll

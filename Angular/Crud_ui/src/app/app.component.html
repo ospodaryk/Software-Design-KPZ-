@@ -1,0 +1,26 @@
+<button (click)="AddEmployee()">Add New Employee</button>
+
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Surname</th>
+    <th>Email</th>
+    <th>Position</th>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let emi of crew">
+      <td>{{ emi.name }}</td>
+      <td>{{ emi.surname }}</td>
+      <td>{{ emi.email }}</td>
+      <td>{{ emi.position }}</td>
+      <td><button (click)="EditEmployee(emi)">Edit</button></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<app-edit-employee
+  [employee]="employeeToEdit"
+  (heroesUpdated)="UpdateCrewList($event)"
+></app-edit-employee>

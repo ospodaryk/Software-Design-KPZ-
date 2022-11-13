@@ -1,0 +1,24 @@
+<div *ngIf="employee">
+    <h2>{{ employee.name +" "+employee.surname}}</h2>
+    <div>
+      Name:
+      <input [(ngModel)]="employee.name" placeholder="Name" />
+    </div>
+    <div>
+        Surname:
+      <input [(ngModel)]="employee.surname" placeholder="Surname" />
+    </div>
+    <div>
+      Email:
+      <input [(ngModel)]="employee.email" placeholder="Email" />
+    </div>
+
+    <div>
+        Position:
+        <input [(ngModel)]="employee.position" placeholder="Position" />
+      </div>
+    <button (click)="UpdateEmployee(employee)" *ngIf="employee.idEmployee">Save</button>
+    <button (click)="DeleteEmployee(employee)" *ngIf="employee.idEmployee">Delete</button>
+    <button (click)="AddEmployee(employee)" *ngIf="!employee.idEmployee">Create</button>
+  </div>
+  
